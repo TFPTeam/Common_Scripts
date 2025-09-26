@@ -1,0 +1,30 @@
+﻿kuid                                    <kuid2:909365:28000:1>
+username                                "TFP: Common scripts v0.55"
+trainz-build                            4.6
+category-class                          "YT"
+category-region                         "00"
+category-era                            "2010s"
+kind                                    "library"
+script					"commonscripts.gs"
+class					"CS"
+description-cz				"Test"
+
+always-load-in-global-context 		1
+
+thumbnails
+{
+  preview
+  {
+    height				180
+    width				240
+    image				"preview.jpg"
+  }
+}
+
+extensions
+{  
+	info
+	{
+		version								"0.55"
+	}
+}
